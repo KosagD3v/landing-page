@@ -15,7 +15,7 @@ header, .section-one, footer {
 .sections {
     display: flex;
     flex-direction: column;
-    flex: 0;
+    flex: 1;
 }
 
 /* HEADER */
@@ -25,6 +25,7 @@ header {
     justify-content: space-around;
     align-items: center;
     color: #F9FAF8;
+    gap: 250px;
 }
 
 .Logo {
