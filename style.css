@@ -90,6 +90,8 @@ li {
     margin: 0;
 }
 
+/* SECTION TWO */
+
 .section-two {
 }
 
@@ -117,4 +119,26 @@ li {
     border-radius: 10px;
 }
 
+/* SECTION THREE */
+
+.section-three {
+    background-color: #E5E7EB;
+    justify-content: center;
+    padding: 100px;
+    display: flex;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    width: 600px;
+}
+
+.quote-author {
+    font-size: 30px;
+    font-weight: bold;
+    color: #1F2937;
+    text-align: end;
+}
 
