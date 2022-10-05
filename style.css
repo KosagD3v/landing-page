@@ -99,3 +99,22 @@ li {
     color: #1F2937;
     text-align: center;
 }
+
+.info-flex {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+
+.item {
+    width: 140px;
+    text-align: center;
+}
+
+.image {
+    padding: 60px;
+    border: solid 3px #3882F6;
+    border-radius: 10px;
+}
+
+
